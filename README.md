@@ -1,9 +1,9 @@
-**Hi, I'm Lara Dharshini** 
+## Hi, I'm Lara Dharshini
 
 *Data Science Student at Coimbatore Institute of Technology  
 Coimbatore, India* 
 
-## About Me  
+### About Me  
 
 I’m a data science student with a growing passion for using data to design smart, scalable solutions that solve real problems. I’m driven by a simple curiosity: *How can data uncover patterns, inform decisions, and create outcomes that are more efficient, fair, and meaningful?*
 
@@ -13,7 +13,7 @@ I aim to become a data scientist who doesn’t just analyze data, but translates
 
 I’m currently seeking opportunities to learn, collaborate, and contribute to impactful, data-driven work.
 
-## Technical Skills  
+### Technical Skills  
 
 Programming
 
@@ -47,20 +47,20 @@ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## Projects  
+### Projects  
 
 - Data analytics dashboards using Power BI  
 - Machine learning–based recommendation systems  
 - Data preprocessing & feature engineering projects  
 
-## Currently Focusing On  
+### Currently Focusing On  
 
 - Internship opportunities  
 - Strengthening ML fundamentals  
 - Building real-world data science projects  
 - Participating in hackathons  
 
-## Connect With Me  
+### Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-dharshini-p)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:laradharshinip@gmail.com)
