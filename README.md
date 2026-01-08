@@ -1,6 +1,6 @@
-<h2, align="center">Hi, I'm Lara Dharshini</h1>
+<h2 align="center">Hi, I'm Lara Dharshini</h1>
 
-<h3, align="center">*Data Science Student at Coimbatore Institute of Technology  
+<h3 align="center">*Data Science Student at Coimbatore Institute of Technology  
 Coimbatore, India*</h3> 
 
 ### About Me  
