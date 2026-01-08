@@ -1,19 +1,74 @@
-<h1 align="center">Hi 👋, I'm Lara Dharshini</h1>
-<h3 align="center">Data Science Student at Coimbatore Institute of Technology</h3>
+<h2, align="center">Hi, I'm Lara Dharshini</h1>
 
-- 💬 Bio **I am a data science student interested in building scalable, data-driven solutions to real-world problems. My interests lie in data analysis, machine learning, and translating insights into meaningful impact through practical applications. I am currently seeking opportunities to learn, collaborate, and contribute to impactful data-driven work.**
+<h3, align="center">*Data Science Student at Coimbatore Institute of Technology  
+Coimbatore, India*</h3> 
 
-- 🌱 I’m currently learning **Machine Learning, Exploratory Data Analysis, Feature Engineering, Power BI**
+### About Me  
 
-- 📫 How to reach me **laradharshinip@gmail.com**
+I’m a data science student with a growing passion for using data to design smart, scalable solutions that solve real problems. I’m driven by a simple curiosity: *How can data uncover patterns, inform decisions, and create outcomes that are more efficient, fair, and meaningful?*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lara-dharshini-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lara-dharshini-p" height="30" width="40" /></a>
-</p>
+This mindset has shaped my work across retail analytics, recommendation systems, and sustainability-focused applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+I aim to become a data scientist who doesn’t just analyze data, but translates it into real value by blending machine learning, analytical thinking, and real-world context.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laradharshini&show_icons=true&locale=en" alt="laradharshini" /></p>
+I’m currently seeking opportunities to learn, collaborate, and contribute to impactful, data-driven work.
 
+
+### Technical Skills  
+
+Programming  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=oracle&logoColor=white)
+
+Data Science & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![EDA](https://img.shields.io/badge/EDA-4CAF50?style=flat)
+
+Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-673AB7?style=flat)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-FF5722?style=flat)
+
+Web & Frameworks
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+
+### Projects  
+
+- Data analytics dashboards using Power BI  
+- Machine learning–based recommendation systems  
+- Data preprocessing and feature engineering projects  
+
+
+### Currently Focusing On  
+
+- Internship opportunities  
+- Strengthening machine learning fundamentals  
+- Building real-world data science projects  
+- Participating in hackathons  
+
+
+### Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-dharshini-p)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:laradharshinip@gmail.com)
+
+If you find my work interesting, feel free to explore my repositories.
+
+*Still learning. Always building.*
