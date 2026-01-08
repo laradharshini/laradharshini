@@ -1,7 +1,7 @@
-# Hi, I'm Lara Dharshini   
+**Hi, I'm Lara Dharshini** 
 
-**Data Science Student** at **Coimbatore Institute of Technology**  
-Coimbatore, India  
+*Data Science Student at Coimbatore Institute of Technology  
+Coimbatore, India* 
 
 ## About Me  
 
