@@ -15,30 +15,35 @@ I’m currently seeking opportunities to learn, collaborate, and contribute to i
 
 ## Technical Skills  
 
-Programming  
+Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=oracle&logoColor=white)
 
-Data Science & Analytics  
+Data Science & Analytics 
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![EDA](https://img.shields.io/badge/EDA-4CAF50?style=flat)
 
-Machine Learning  
+Machine Learning 
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-673AB7?style=flat)
 ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-FF5722?style=flat)
 
-Web & Frameworks  
+Web & Frameworks
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-Databases  
+Databases 
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
